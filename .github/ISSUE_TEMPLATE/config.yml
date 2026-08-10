@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Private report
-    url: https://momentbackup.com/support/#report
+    url: https://momentbackup.com/support/#private-report
     about: Get a private MomentBackup reference and update emails.
   - name: Questions and help
     url: https://github.com/MomentBackup/support/discussions/categories/q-a

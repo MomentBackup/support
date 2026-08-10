@@ -11,7 +11,7 @@ body:
 
         This report will be public. Do not include email addresses, file paths, backup names, logs, diagnostics, account details, storage addresses, screenshots with private data, or credentials.
 
-        For a private report and update emails, use [MomentBackup's private form](https://momentbackup.com/support/#report). For a security problem, use [private vulnerability reporting](https://github.com/MomentBackup/support/security/advisories/new).
+        For a private report and update emails, use [MomentBackup's private form](https://momentbackup.com/support/#private-report). For a security problem, use [private vulnerability reporting](https://github.com/MomentBackup/support/security/advisories/new).
 
   - type: checkboxes
     id: safety

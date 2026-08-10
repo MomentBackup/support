@@ -20,7 +20,7 @@ Have an idea? [Start an Ideas discussion](https://github.com/MomentBackup/suppor
 
 ## Report a problem
 
-Use the **[private MomentBackup report form](https://momentbackup.com/support/#report)**
+Use the **[private MomentBackup report form](https://momentbackup.com/support/#private-report)**
 for the normal path. It gives you a private `MB-######` reference and update
 emails.
 
