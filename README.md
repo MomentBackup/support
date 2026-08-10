@@ -20,9 +20,8 @@ Have an idea? [Start an Ideas discussion](https://github.com/MomentBackup/suppor
 
 ## Report a problem
 
-Use the **[private MomentBackup report form](https://momentbackup.com/support/#private-report)**
-for the normal path. It gives you a private `MB-######` reference and update
-emails.
+Use the **[MomentBackup support page](https://momentbackup.com/support/)** for
+the normal private path. Keep setup and account details out of public GitHub.
 
 Technical users may instead open a **[public GitHub report](https://github.com/MomentBackup/support/issues/new/choose)**
 when every detail is safe to share. GitHub issues are public. Do not include
