@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private report
+    url: https://momentbackup.com/support/#report
+    about: Get a private MomentBackup reference and update emails.
+  - name: Questions and help
+    url: https://github.com/MomentBackup/support/discussions
+    about: Ask a public question and search existing answers.
+  - name: Help guides
+    url: https://momentbackup.com/help/
+    about: Read setup, backup, and restore guides.
+  - name: Security vulnerability
+    url: https://github.com/MomentBackup/support/security/advisories/new
+    about: Tell the maintainers privately about a security problem.

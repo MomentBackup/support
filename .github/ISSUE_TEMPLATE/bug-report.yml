@@ -1,0 +1,107 @@
+name: Public bug report
+description: Report a MomentBackup problem that is safe to discuss in public.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us improve MomentBackup.
+
+        This report will be public. Do not include email addresses, file paths, backup names, logs, diagnostics, account details, storage addresses, screenshots with private data, or credentials.
+
+        For a private report and update emails, use [MomentBackup's private form](https://momentbackup.com/support/#report). For a security problem, use [private vulnerability reporting](https://github.com/MomentBackup/support/security/advisories/new).
+
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Before you continue
+      options:
+        - label: I understand this report will be public.
+          required: true
+        - label: I removed all private data.
+          required: true
+        - label: This is not a security vulnerability.
+          required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: MomentBackup version
+      description: Find this in Settings.
+      placeholder: e.g. 1.0.15
+    validations:
+      required: true
+
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Where did it happen?
+      options:
+        - Desktop app
+        - Hub
+        - Website or account
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      placeholder: e.g. macOS 15, Windows 11, or Ubuntu 24.04
+    validations:
+      required: true
+
+  - type: dropdown
+    id: install
+    attributes:
+      label: Install type
+      options:
+        - Signed installer
+        - Package manager
+        - Hub container
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: doing
+    attributes:
+      label: What were you trying to do?
+      description: Describe the goal without private names or locations.
+    validations:
+      required: true
+
+  - type: textarea
+    id: happened
+    attributes:
+      label: What happened?
+      description: Describe the problem without private data.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Smallest steps to make it happen
+      placeholder: |
+        1. Open ...
+        2. Choose ...
+        3. See ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Optional. Do not paste logs, paths, diagnostics, or private screenshots.
