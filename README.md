@@ -7,7 +7,7 @@ repository holds no product code and no private customer reports.
 
 ## Get help
 
-**[Ask a public question](https://github.com/MomentBackup/support/discussions)**
+**[Ask a public question](https://github.com/MomentBackup/support/discussions/categories/q-a)**
 
 Public answers stay searchable and can help the next person too. The guides may
 already have what you need:
@@ -15,6 +15,8 @@ already have what you need:
 - [Getting started](https://momentbackup.com/help/getting-started/)
 - [Restore files](https://momentbackup.com/help/getting-files-back/)
 - [All help guides](https://momentbackup.com/help/)
+
+Have an idea? [Start an Ideas discussion](https://github.com/MomentBackup/support/discussions/categories/ideas).
 
 ## Report a problem
 

@@ -4,8 +4,11 @@ contact_links:
     url: https://momentbackup.com/support/#report
     about: Get a private MomentBackup reference and update emails.
   - name: Questions and help
-    url: https://github.com/MomentBackup/support/discussions
+    url: https://github.com/MomentBackup/support/discussions/categories/q-a
     about: Ask a public question and search existing answers.
+  - name: Suggest an idea
+    url: https://github.com/MomentBackup/support/discussions/categories/ideas
+    about: Share and discuss a product idea in public.
   - name: Help guides
     url: https://momentbackup.com/help/
     about: Read setup, backup, and restore guides.
