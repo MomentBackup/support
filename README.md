@@ -2,8 +2,9 @@
 
 This is the public support home for **MomentBackup**.
 
-MomentBackup protects files and whole computers using storage you control. This
-repository holds no product code and no private customer reports.
+MomentBackup backs up files on Windows, macOS, and Linux. Windows also supports
+system image backups. Backups use storage you control. This repository holds no
+product code and no private customer reports.
 
 ## Get help
 
